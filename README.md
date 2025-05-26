@@ -42,4 +42,4 @@ To identify natural groupings of hospital cost centers and understand the drivin
 ## Repository Structure
 
 ## Link to Code
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdazab/DATA5322-Homework-4/blob/main/hofidar_analysis.ipynb)
+[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdazab/DATA5322-Homework-4/blob/main/hofidar_analysis.ipynb)](https://colab.research.google.com/drive/1Xaozex-GmKcLMkzvUu6-KqI2xud9ocT6#scrollTo=pVwru9UoTdsl)
